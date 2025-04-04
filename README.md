@@ -1,4 +1,4 @@
-![Screenshot (235)](https://github.com/user-attachments/assets/bc610cab-9d0a-43aa-b140-0f863f22d782)# 🚀 **DevOps Project: Book My Show App Deployment**  
+# 🚀 **DevOps Project: Book My Show App Deployment**  
 
 Welcome to the **Book My Show App Deployment** project! This project demonstrates how to deploy a **Book My Show-clone application** using modern DevOps tools and practices, following a **DevSecOps** approach.  
 _____________________________________________________________________________________________________________________________________________________________________________________________________
